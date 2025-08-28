@@ -4,7 +4,7 @@
 
   <p align="center">
      Made by Team -22  ,
- Team member -- Ankit kumar singh
+ Team member -- Harsh Sharma
     <br/>
     <br/>
   </p>
@@ -43,7 +43,7 @@ To get a local copy up and running follow these simple example steps.
 1. Clone the repo
 
 ```sh
-https://github.com/Insomniac2904/cli-banking.git
+https://github.com/harshshs/Banking-software/
 ```
 2. Go to the "frontend" folder using the terminal or cmd and type:
 ```sh
@@ -62,12 +62,12 @@ cli-bank
 2. Create an Issue for major changes
 3. Clone the repo to Local Computer 
 ```sh
-git clone https://github.com/Insomniac2904/cli-banking.git
+https://github.com/harshshs/Banking-software/
 ```
 4. Create Pull Request 
 
 
 ## Authors
 
-* **Ankit kumar singh** - *IT Student* - (https://github.com/codexankitsingh) - *Built the CLI-BANKING application*
+* **Harsh Sharma** - *IT Student* - (https://github.com/harshshs/) - *Built the CLI-BANKING application*
 
